@@ -4,3 +4,6 @@
 <br><br>bug:
 <br>do not run in multiprocesing this script not maked from run in double tab or multiprocesing proces<br>mybe have not same or not rality vuln
 <br>i dont know many waf or site it not same in using bypasing query and that make blank in process
+<br>Demo site:
+<br>base64 injection vuln: http://www.knotsolutions.com/case_study_view.php?id=MQ==
+<br>waf bruteforce: http://cahayabajasukses.co.id/produk.php?id=3
