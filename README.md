@@ -1,2 +1,2 @@
 # psqli
-all-in one sqli tools pack
+automatic sql injection tools pack
