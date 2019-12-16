@@ -14,10 +14,11 @@ coise what u want
 [8]. Query Email Pass dumper + auto filter mail
 [9]. Hash tools
 [10]. Dork generator
-outpu :
+output :
 output injected site log query in dir output/site.com
 union.txt = list file for bruteforce union select bypasing
 .key = for dork gen
 site.txt = demo site
-
-
+cracked-$list md5.txt = md5 cracked from list
+Result_dorking.txt = result url from dorking
+output/$dir/dump-$table.txt = output result dump
